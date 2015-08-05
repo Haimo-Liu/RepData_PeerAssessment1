@@ -176,7 +176,7 @@ plot(WeekendAve, type = 'l', main = 'Weekend Plot', xlab = '5-min Interval', yla
 ```
 
 
-You can refer to the figures above regarding the pattern difference between weekdays and weekends
+Please refer to the above figures regarding the pattern difference between weekdays and weekends
 
 
 
